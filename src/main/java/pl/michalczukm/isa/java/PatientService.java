@@ -13,6 +13,7 @@ public class PatientService {
         patients.add(new Patient("Adam", "Nowak"));
         patients.add(new Patient("Kamil", "Adamowski"));
         patients.add(new Patient("Karol", "Zed"));
+        patients.add(new Patient("Karol", "Zedd"));
     }
 
     public List<Patient> getAll() {
